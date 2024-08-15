@@ -160,7 +160,7 @@ border-radius: 40px;
 
 @keyframes java {
     to {
-        width: 75%;
+        width: 90%;
     }
 }
 #skill li.dj:after {
@@ -203,7 +203,7 @@ border-radius: 40px;
 
 @keyframes an {
     to {
-        width: 70%;
+        width: 80%;
     }
 }
 
@@ -240,7 +240,7 @@ border-radius: 40px;
 
 @keyframes docker {
     to {
-        width: 60%;
+        width: 70%;
     }
 }
 #skill li.kubernetes:after {
@@ -249,7 +249,7 @@ border-radius: 40px;
 
 @keyframes kubernetes{
     to {
-        width: 40%;
+        width: 65%;
     }
 }
 
@@ -269,7 +269,7 @@ border-radius: 40px;
 
 @keyframes css {
     to {
-        width: 90%;
+        width: 75%;
     }
 }
 
